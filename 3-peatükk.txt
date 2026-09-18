@@ -1,2 +1,2 @@
 {peatükk3}
-<h2>3.(pole veel)<h2>
+<h2>3.(pole veel)</h2>
