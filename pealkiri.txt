@@ -1,4 +1,4 @@
 {pealkiri}
 <h2>Miks on küberturvalisus oluline?</h2>
-tänapäeval digimaailmas on meie paroolid jne koguaeg ohus.
+Tänapäeval digimaailmas on meie paroolid jne koguaeg ohus.
 Turvaline käitumine internetis pole keeruline, kui tead neid ohutusnõuandeid allpool.
