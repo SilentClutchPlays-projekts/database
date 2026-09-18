@@ -1,1 +1,4 @@
-
+https://raw.githubusercontent.com/SilentClutchPlays-projekts/database/refs/heads/main/pealkiri.txt
+https://raw.githubusercontent.com/SilentClutchPlays-projekts/database/refs/heads/main/1-peat%C3%BCkk.txt
+https://raw.githubusercontent.com/SilentClutchPlays-projekts/database/refs/heads/main/2-peat%C3%BCkk.txt
+https://raw.githubusercontent.com/SilentClutchPlays-projekts/database/refs/heads/main/3-peat%C3%BCkk.txt
