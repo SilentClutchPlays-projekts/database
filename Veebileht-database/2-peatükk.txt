@@ -1,0 +1,6 @@
+{peatükk2}
+<h2>2. Kaheastmeline autentimine (2FA)</h2>
+Isegi kui keegi saab teada sinu parooli, ei pääse ta sinu kontole ligi ilma 2FA koodita.
+Soovitan kasutada Google Authenticatori äppi kuna seal pole reklaame ja on turvaline.
+link mis suunab google playsse õigesse äppi automaatselt:
+market://details?id=com.google.android.apps.authenticator2
