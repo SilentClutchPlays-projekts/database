@@ -1,3 +1,3 @@
 {peatükk4} 
-<h2>4. Ära jäta uuendusi vahele!</h2>
+<h2>4.Ära jäta kunagi uuendusi vahele!</h2>
 Ära lükka arvuti või telefoni uuendusi edasi. Uuendused parandavad väga tihti ohtlikke turvaauke, mida kurjategijad saaksid kasutada sinu seadmesse sissemurdmiseks. Seadista oma äpid ja operatsioonisüsteem automaatselt uuenema.
