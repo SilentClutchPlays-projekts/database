@@ -1,2 +1,3 @@
 {peatükk3}
-<h2>3.(pole veel)</h2>
+<h2>3.Õngitsuskirjade ja pettuste äratundmine</h2>
+Ära kunagi kliki linkidele, mis saabuvad SMS-i või e-kirjaga ja nõuavad kiiresti panka sisselogimist või vms. Päris pangad ja pakifirmad ei küsi kunagi sinu PIN-koode sõnumi teel. Vaata alati saatja tegelikku e-posti aadressi ning vajadusel küsi kellegi usaldusväärse käest mida ta sellest arvab!
